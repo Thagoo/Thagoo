@@ -5,7 +5,7 @@
 
 <img align="left" src='https://raw.githubusercontent.com/Thagoo/Thagoo/master/github.gif' width='200'/>
 
-<h1 align="center">Hi! I am Lohit</h1>
+<h1 align="center">Hi! I am Lohith</h1>
 <h3 align="center">A learner</h3>
 
 - 🌱 I am a student, I like to work on Open Source Softwares.
