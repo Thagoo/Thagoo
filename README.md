@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available here.
 
-- 📫 For more info look at my unique portfolio **https://thagoo.github.io**
+- 📫 For more info look at my unique portfolio **https://dev-lohith-portfolio.netlify.app**
 
 - ⚡ Fun fact **I am busy**
 
